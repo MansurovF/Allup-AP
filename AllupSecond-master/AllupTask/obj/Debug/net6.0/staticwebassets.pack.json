@@ -1,0 +1,2169 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\css\\plugins\\animate.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\css\\plugins\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\css\\plugins\\default.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\default.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\css\\plugins\\fontawesome.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\fontawesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\css\\plugins\\images\\ui-icons_444444_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\images\\ui-icons_444444_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\css\\plugins\\images\\ui-icons_555555_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\images\\ui-icons_555555_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\css\\plugins\\images\\ui-icons_777620_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\images\\ui-icons_777620_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\css\\plugins\\images\\ui-icons_777777_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\images\\ui-icons_777777_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\css\\plugins\\images\\ui-icons_cc0000_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\images\\ui-icons_cc0000_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\css\\plugins\\images\\ui-icons_ffffff_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\images\\ui-icons_ffffff_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\css\\plugins\\ionicons.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\ionicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\css\\plugins\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\jquery-ui.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\css\\plugins\\slick.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\slick.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\fonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\fonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\fonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\fonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\fonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\fonts\\fa-brands-400d41d.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-brands-400d41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\fonts\\fa-light-300.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-light-300.eot"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\fonts\\fa-light-300.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-light-300.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\fonts\\fa-light-300.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-light-300.ttf"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\fonts\\fa-light-300.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-light-300.woff"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\fonts\\fa-light-300.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-light-300.woff2"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\fonts\\fa-light-300d41d.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-light-300d41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\fonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\fonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\fonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\fonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\fonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\fonts\\fa-regular-400d41d.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-regular-400d41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\fonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\fonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\fonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\fonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\fonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\fonts\\fa-solid-900d41d.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-solid-900d41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\fonts\\ionicons28b5.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\ionicons28b5.eot"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\fonts\\ionicons28b5.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\ionicons28b5.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\fonts\\ionicons28b5.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\ionicons28b5.ttf"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\fonts\\ionicons28b5.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\ionicons28b5.woff"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\images\\author-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\author-1.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\images\\banner-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-1.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\images\\banner-10.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\images\\banner-11.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\images\\banner-12.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\images\\banner-13.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\images\\banner-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-2.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\images\\banner-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\images\\banner-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\images\\banner-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\images\\banner-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\images\\banner-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\images\\banner-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\images\\banner-9.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\images\\banner-icon\\icon1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-icon\\icon1.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\images\\banner-icon\\icon2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-icon\\icon2.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\images\\banner-icon\\icon3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-icon\\icon3.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\images\\banner-icon\\icon4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-icon\\icon4.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\images\\banner-icon\\icon5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-icon\\icon5.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\images\\banner-image.png",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-image.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\images\\bg-cound.png",
+      "PackagePath": "staticwebassets\\assets\\images\\bg-cound.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\images\\bg-footer.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bg-footer.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\images\\bg-newletter.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bg-newletter.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\images\\bg_testimonial.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bg_testimonial.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\images\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\images\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\images\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\images\\blog-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\images\\brand\\brand-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\brand\\brand-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\images\\brand\\brand-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\brand\\brand-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\images\\brand\\brand-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\brand\\brand-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\images\\brand\\brand-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\brand\\brand-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\images\\brand\\brand-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\brand\\brand-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\images\\brand\\brand-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\brand\\brand-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\images\\category-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\category-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\images\\category-10.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\category-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\images\\category-11.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\category-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\images\\category-12.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\category-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\images\\category-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\category-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\images\\category-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\category-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\images\\category-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\category-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\images\\category-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\category-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\images\\category-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\category-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\images\\category-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\category-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\images\\category-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\category-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\images\\category-9.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\category-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\images\\comment-author.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\comment-author.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\images\\custom_banner.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\custom_banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\images\\flag\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\flag\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\images\\flag\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\flag\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\images\\icon-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icon-1.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\images\\icon-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icon-2.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\images\\icon-3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icon-3.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\images\\logo-white.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo-white.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\images\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\images\\payment.png",
+      "PackagePath": "staticwebassets\\assets\\images\\payment.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\images\\product-cart\\cart-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-cart\\cart-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\images\\product-cart\\cart-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-cart\\cart-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\images\\product-quick\\product-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-quick\\product-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\images\\product-quick\\product-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-quick\\product-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\images\\product-quick\\product-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-quick\\product-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\images\\product-quick\\product-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-quick\\product-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\images\\product-quick\\product-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-quick\\product-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\images\\product\\product-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\images\\product\\product-10.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\images\\product\\product-11.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\images\\product\\product-12.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\images\\product\\product-13.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\images\\product\\product-14.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\images\\product\\product-15.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\images\\product\\product-16.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\images\\product\\product-17.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\images\\product\\product-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\images\\product\\product-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\images\\product\\product-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\images\\product\\product-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\images\\product\\product-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\images\\product\\product-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\images\\product\\product-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\images\\product\\product-9.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\images\\slider-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\images\\slider-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\images\\slider-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\images\\slider-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\images\\slider-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\images\\slider-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\images\\slider-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\images\\slider-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\images\\special-products\\special-products-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\special-products\\special-products-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\images\\special-products\\special-products-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\special-products\\special-products-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\images\\special-products\\special-products-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\special-products\\special-products-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\images\\special-products\\special-products-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\special-products\\special-products-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\images\\special-products\\special-products-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\special-products\\special-products-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\images\\special-products\\special-products-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\special-products\\special-products-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\images\\special-products\\special-products-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\special-products\\special-products-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\images\\special-products\\special-products-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\special-products\\special-products-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\js\\custom.js",
+      "PackagePath": "staticwebassets\\assets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\js\\map-script.js",
+      "PackagePath": "staticwebassets\\assets\\js\\map-script.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\js\\plugins\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\js\\plugins\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\jquery-ui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\js\\plugins\\jquery.countdown.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\jquery.countdown.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\js\\plugins\\popper.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\js\\plugins\\slick.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\slick.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\js\\vendor\\jquery-1.12.4.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\jquery-1.12.4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\js\\vendor\\modernizr-3.7.1.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\modernizr-3.7.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\assets\\plugins\\js\\ajax-contact.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\js\\ajax-contact.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\css\\sb-admin-2.css",
+      "PackagePath": "staticwebassets\\manage\\css\\sb-admin-2.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\css\\sb-admin-2.min.css",
+      "PackagePath": "staticwebassets\\manage\\css\\sb-admin-2.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\img\\undraw_posting_photo.svg",
+      "PackagePath": "staticwebassets\\manage\\img\\undraw_posting_photo.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\img\\undraw_profile.svg",
+      "PackagePath": "staticwebassets\\manage\\img\\undraw_profile.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\img\\undraw_profile_1.svg",
+      "PackagePath": "staticwebassets\\manage\\img\\undraw_profile_1.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\img\\undraw_profile_2.svg",
+      "PackagePath": "staticwebassets\\manage\\img\\undraw_profile_2.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\img\\undraw_profile_3.svg",
+      "PackagePath": "staticwebassets\\manage\\img\\undraw_profile_3.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\img\\undraw_rocket.svg",
+      "PackagePath": "staticwebassets\\manage\\img\\undraw_rocket.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\js\\demo\\chart-area-demo.js",
+      "PackagePath": "staticwebassets\\manage\\js\\demo\\chart-area-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\js\\demo\\chart-bar-demo.js",
+      "PackagePath": "staticwebassets\\manage\\js\\demo\\chart-bar-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\js\\demo\\chart-pie-demo.js",
+      "PackagePath": "staticwebassets\\manage\\js\\demo\\chart-pie-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\js\\demo\\datatables-demo.js",
+      "PackagePath": "staticwebassets\\manage\\js\\demo\\datatables-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\js\\sb-admin-2.js",
+      "PackagePath": "staticwebassets\\manage\\js\\sb-admin-2.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\js\\sb-admin-2.min.js",
+      "PackagePath": "staticwebassets\\manage\\js\\sb-admin-2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\manage\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\scss\\_cards.scss",
+      "PackagePath": "staticwebassets\\manage\\scss\\_cards.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\scss\\_charts.scss",
+      "PackagePath": "staticwebassets\\manage\\scss\\_charts.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\scss\\_dropdowns.scss",
+      "PackagePath": "staticwebassets\\manage\\scss\\_dropdowns.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\scss\\_error.scss",
+      "PackagePath": "staticwebassets\\manage\\scss\\_error.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\scss\\_footer.scss",
+      "PackagePath": "staticwebassets\\manage\\scss\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\scss\\_global.scss",
+      "PackagePath": "staticwebassets\\manage\\scss\\_global.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\scss\\_login.scss",
+      "PackagePath": "staticwebassets\\manage\\scss\\_login.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\manage\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\scss\\_navs.scss",
+      "PackagePath": "staticwebassets\\manage\\scss\\_navs.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\manage\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\manage\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\scss\\navs\\_global.scss",
+      "PackagePath": "staticwebassets\\manage\\scss\\navs\\_global.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\scss\\navs\\_sidebar.scss",
+      "PackagePath": "staticwebassets\\manage\\scss\\navs\\_sidebar.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\scss\\navs\\_topbar.scss",
+      "PackagePath": "staticwebassets\\manage\\scss\\navs\\_topbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\scss\\sb-admin-2.scss",
+      "PackagePath": "staticwebassets\\manage\\scss\\sb-admin-2.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\scss\\utilities\\_animation.scss",
+      "PackagePath": "staticwebassets\\manage\\scss\\utilities\\_animation.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\scss\\utilities\\_background.scss",
+      "PackagePath": "staticwebassets\\manage\\scss\\utilities\\_background.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\scss\\utilities\\_border.scss",
+      "PackagePath": "staticwebassets\\manage\\scss\\utilities\\_border.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\scss\\utilities\\_display.scss",
+      "PackagePath": "staticwebassets\\manage\\scss\\utilities\\_display.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\scss\\utilities\\_progress.scss",
+      "PackagePath": "staticwebassets\\manage\\scss\\utilities\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\scss\\utilities\\_rotate.scss",
+      "PackagePath": "staticwebassets\\manage\\scss\\utilities\\_rotate.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\scss\\utilities\\_text.scss",
+      "PackagePath": "staticwebassets\\manage\\scss\\utilities\\_text.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\manage\\vendor\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\manage\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\manage\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\manage\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\manage\\vendor\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\manage\\vendor\\bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\manage\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\manage\\vendor\\bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\manage\\vendor\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\manage\\vendor\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\manage\\vendor\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\manage\\vendor\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\manage\\vendor\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\manage\\vendor\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\manage\\vendor\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\manage\\vendor\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\bootstrap\\scss\\_code.scss",
+      "PackagePath": "staticwebassets\\manage\\vendor\\bootstrap\\scss\\_code.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\bootstrap\\scss\\_custom-forms.scss",
+      "PackagePath": "staticwebassets\\manage\\vendor\\bootstrap\\scss\\_custom-forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\manage\\vendor\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\manage\\vendor\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\manage\\vendor\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\manage\\vendor\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\manage\\vendor\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\bootstrap\\scss\\_input-group.scss",
+      "PackagePath": "staticwebassets\\manage\\vendor\\bootstrap\\scss\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\bootstrap\\scss\\_jumbotron.scss",
+      "PackagePath": "staticwebassets\\manage\\vendor\\bootstrap\\scss\\_jumbotron.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\manage\\vendor\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\bootstrap\\scss\\_media.scss",
+      "PackagePath": "staticwebassets\\manage\\vendor\\bootstrap\\scss\\_media.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\manage\\vendor\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\manage\\vendor\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\manage\\vendor\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\manage\\vendor\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\manage\\vendor\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\manage\\vendor\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\bootstrap\\scss\\_print.scss",
+      "PackagePath": "staticwebassets\\manage\\vendor\\bootstrap\\scss\\_print.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\manage\\vendor\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\manage\\vendor\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\manage\\vendor\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\manage\\vendor\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\manage\\vendor\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\manage\\vendor\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\manage\\vendor\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\manage\\vendor\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\manage\\vendor\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\manage\\vendor\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\manage\\vendor\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\manage\\vendor\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\manage\\vendor\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\manage\\vendor\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\manage\\vendor\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\bootstrap\\scss\\mixins\\_background-variant.scss",
+      "PackagePath": "staticwebassets\\manage\\vendor\\bootstrap\\scss\\mixins\\_background-variant.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\bootstrap\\scss\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\manage\\vendor\\bootstrap\\scss\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\manage\\vendor\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\manage\\vendor\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\manage\\vendor\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\manage\\vendor\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\manage\\vendor\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\manage\\vendor\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\manage\\vendor\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\bootstrap\\scss\\mixins\\_float.scss",
+      "PackagePath": "staticwebassets\\manage\\vendor\\bootstrap\\scss\\mixins\\_float.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\manage\\vendor\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\manage\\vendor\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\bootstrap\\scss\\mixins\\_grid-framework.scss",
+      "PackagePath": "staticwebassets\\manage\\vendor\\bootstrap\\scss\\mixins\\_grid-framework.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\manage\\vendor\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\bootstrap\\scss\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\manage\\vendor\\bootstrap\\scss\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\manage\\vendor\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\manage\\vendor\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\manage\\vendor\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\bootstrap\\scss\\mixins\\_nav-divider.scss",
+      "PackagePath": "staticwebassets\\manage\\vendor\\bootstrap\\scss\\mixins\\_nav-divider.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\manage\\vendor\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\manage\\vendor\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\manage\\vendor\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\bootstrap\\scss\\mixins\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\manage\\vendor\\bootstrap\\scss\\mixins\\_screen-reader.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\bootstrap\\scss\\mixins\\_size.scss",
+      "PackagePath": "staticwebassets\\manage\\vendor\\bootstrap\\scss\\mixins\\_size.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\bootstrap\\scss\\mixins\\_table-row.scss",
+      "PackagePath": "staticwebassets\\manage\\vendor\\bootstrap\\scss\\mixins\\_table-row.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\bootstrap\\scss\\mixins\\_text-emphasis.scss",
+      "PackagePath": "staticwebassets\\manage\\vendor\\bootstrap\\scss\\mixins\\_text-emphasis.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\bootstrap\\scss\\mixins\\_text-hide.scss",
+      "PackagePath": "staticwebassets\\manage\\vendor\\bootstrap\\scss\\mixins\\_text-hide.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\manage\\vendor\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\manage\\vendor\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\bootstrap\\scss\\mixins\\_visibility.scss",
+      "PackagePath": "staticwebassets\\manage\\vendor\\bootstrap\\scss\\mixins\\_visibility.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\bootstrap\\scss\\utilities\\_align.scss",
+      "PackagePath": "staticwebassets\\manage\\vendor\\bootstrap\\scss\\utilities\\_align.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\bootstrap\\scss\\utilities\\_background.scss",
+      "PackagePath": "staticwebassets\\manage\\vendor\\bootstrap\\scss\\utilities\\_background.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\bootstrap\\scss\\utilities\\_borders.scss",
+      "PackagePath": "staticwebassets\\manage\\vendor\\bootstrap\\scss\\utilities\\_borders.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\bootstrap\\scss\\utilities\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\manage\\vendor\\bootstrap\\scss\\utilities\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\bootstrap\\scss\\utilities\\_display.scss",
+      "PackagePath": "staticwebassets\\manage\\vendor\\bootstrap\\scss\\utilities\\_display.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\bootstrap\\scss\\utilities\\_embed.scss",
+      "PackagePath": "staticwebassets\\manage\\vendor\\bootstrap\\scss\\utilities\\_embed.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\bootstrap\\scss\\utilities\\_flex.scss",
+      "PackagePath": "staticwebassets\\manage\\vendor\\bootstrap\\scss\\utilities\\_flex.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\bootstrap\\scss\\utilities\\_float.scss",
+      "PackagePath": "staticwebassets\\manage\\vendor\\bootstrap\\scss\\utilities\\_float.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\bootstrap\\scss\\utilities\\_interactions.scss",
+      "PackagePath": "staticwebassets\\manage\\vendor\\bootstrap\\scss\\utilities\\_interactions.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\bootstrap\\scss\\utilities\\_overflow.scss",
+      "PackagePath": "staticwebassets\\manage\\vendor\\bootstrap\\scss\\utilities\\_overflow.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\bootstrap\\scss\\utilities\\_position.scss",
+      "PackagePath": "staticwebassets\\manage\\vendor\\bootstrap\\scss\\utilities\\_position.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\bootstrap\\scss\\utilities\\_screenreaders.scss",
+      "PackagePath": "staticwebassets\\manage\\vendor\\bootstrap\\scss\\utilities\\_screenreaders.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\bootstrap\\scss\\utilities\\_shadows.scss",
+      "PackagePath": "staticwebassets\\manage\\vendor\\bootstrap\\scss\\utilities\\_shadows.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\bootstrap\\scss\\utilities\\_sizing.scss",
+      "PackagePath": "staticwebassets\\manage\\vendor\\bootstrap\\scss\\utilities\\_sizing.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\bootstrap\\scss\\utilities\\_spacing.scss",
+      "PackagePath": "staticwebassets\\manage\\vendor\\bootstrap\\scss\\utilities\\_spacing.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\bootstrap\\scss\\utilities\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\manage\\vendor\\bootstrap\\scss\\utilities\\_stretched-link.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\bootstrap\\scss\\utilities\\_text.scss",
+      "PackagePath": "staticwebassets\\manage\\vendor\\bootstrap\\scss\\utilities\\_text.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\bootstrap\\scss\\utilities\\_visibility.scss",
+      "PackagePath": "staticwebassets\\manage\\vendor\\bootstrap\\scss\\utilities\\_visibility.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\manage\\vendor\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\chart.js\\Chart.bundle.js",
+      "PackagePath": "staticwebassets\\manage\\vendor\\chart.js\\Chart.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\chart.js\\Chart.bundle.min.js",
+      "PackagePath": "staticwebassets\\manage\\vendor\\chart.js\\Chart.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\chart.js\\Chart.js",
+      "PackagePath": "staticwebassets\\manage\\vendor\\chart.js\\Chart.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\chart.js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\manage\\vendor\\chart.js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\datatables\\dataTables.bootstrap4.css",
+      "PackagePath": "staticwebassets\\manage\\vendor\\datatables\\dataTables.bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\datatables\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\manage\\vendor\\datatables\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\datatables\\dataTables.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\manage\\vendor\\datatables\\dataTables.bootstrap4.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\datatables\\dataTables.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\manage\\vendor\\datatables\\dataTables.bootstrap4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\datatables\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\manage\\vendor\\datatables\\jquery.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\datatables\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\manage\\vendor\\datatables\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\attribution.js",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\attribution.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\css\\all.css",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\css\\all.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\css\\all.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\css\\brands.css",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\css\\brands.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\css\\brands.min.css",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\css\\brands.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\css\\fontawesome.css",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\css\\fontawesome.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\css\\fontawesome.min.css",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\css\\fontawesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\css\\regular.css",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\css\\regular.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\css\\regular.min.css",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\css\\regular.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\css\\solid.css",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\css\\solid.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\css\\solid.min.css",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\css\\solid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\css\\svg-with-js.css",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\css\\svg-with-js.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\css\\svg-with-js.min.css",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\css\\svg-with-js.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\css\\v4-shims.css",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\css\\v4-shims.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\css\\v4-shims.min.css",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\css\\v4-shims.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\js\\all.js",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\js\\all.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\js\\all.min.js",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\js\\all.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\js\\brands.js",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\js\\brands.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\js\\brands.min.js",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\js\\brands.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\js\\conflict-detection.js",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\js\\conflict-detection.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\js\\conflict-detection.min.js",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\js\\conflict-detection.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\js\\fontawesome.js",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\js\\fontawesome.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\js\\fontawesome.min.js",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\js\\fontawesome.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\js\\regular.js",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\js\\regular.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\js\\regular.min.js",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\js\\regular.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\js\\solid.js",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\js\\solid.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\js\\solid.min.js",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\js\\solid.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\js\\v4-shims.js",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\js\\v4-shims.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\js\\v4-shims.min.js",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\js\\v4-shims.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\less\\_animated.less",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\less\\_animated.less"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\less\\_bordered-pulled.less",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\less\\_bordered-pulled.less"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\less\\_core.less",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\less\\_core.less"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\less\\_fixed-width.less",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\less\\_fixed-width.less"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\less\\_icons.less",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\less\\_icons.less"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\less\\_larger.less",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\less\\_larger.less"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\less\\_list.less",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\less\\_list.less"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\less\\_mixins.less",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\less\\_mixins.less"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\less\\_rotated-flipped.less",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\less\\_rotated-flipped.less"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\less\\_screen-reader.less",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\less\\_screen-reader.less"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\less\\_shims.less",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\less\\_shims.less"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\less\\_stacked.less",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\less\\_stacked.less"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\less\\_variables.less",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\less\\_variables.less"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\less\\brands.less",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\less\\brands.less"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\less\\fontawesome.less",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\less\\fontawesome.less"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\less\\regular.less",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\less\\regular.less"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\less\\solid.less",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\less\\solid.less"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\less\\v4-shims.less",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\less\\v4-shims.less"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\metadata\\categories.yml",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\metadata\\categories.yml"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\metadata\\icons.yml",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\metadata\\icons.yml"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\metadata\\shims.yml",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\metadata\\shims.yml"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\metadata\\sponsors.yml",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\metadata\\sponsors.yml"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\package.json",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\scss\\_animated.scss",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\scss\\_animated.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\scss\\_bordered-pulled.scss",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\scss\\_bordered-pulled.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\scss\\_core.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\scss\\_fixed-width.scss",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\scss\\_fixed-width.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\scss\\_icons.scss",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\scss\\_icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\scss\\_larger.scss",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\scss\\_larger.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\scss\\_list.scss",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\scss\\_list.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\scss\\_rotated-flipped.scss",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\scss\\_rotated-flipped.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\scss\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\scss\\_screen-reader.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\scss\\_shims.scss",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\scss\\_shims.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\scss\\_stacked.scss",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\scss\\_stacked.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\scss\\brands.scss",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\scss\\brands.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\scss\\fontawesome.scss",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\scss\\fontawesome.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\scss\\regular.scss",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\scss\\regular.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\scss\\solid.scss",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\scss\\solid.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\scss\\v4-shims.scss",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\scss\\v4-shims.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\sprites\\brands.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\sprites\\brands.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\sprites\\regular.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\sprites\\regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\sprites\\solid.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\sprites\\solid.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\500px.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\500px.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\accessible-icon.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\accessible-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\accusoft.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\accusoft.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\acquisitions-incorporated.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\acquisitions-incorporated.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\adn.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\adn.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\adversal.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\adversal.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\affiliatetheme.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\affiliatetheme.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\airbnb.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\airbnb.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\algolia.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\algolia.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\alipay.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\alipay.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\amazon-pay.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\amazon-pay.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\amazon.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\amazon.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\amilia.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\amilia.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\android.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\android.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\angellist.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\angellist.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\angrycreative.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\angrycreative.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\angular.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\angular.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\app-store-ios.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\app-store-ios.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\app-store.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\app-store.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\apper.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\apper.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\apple-pay.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\apple-pay.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\apple.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\apple.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\artstation.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\artstation.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\asymmetrik.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\asymmetrik.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\atlassian.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\atlassian.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\audible.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\audible.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\autoprefixer.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\autoprefixer.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\avianex.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\avianex.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\aviato.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\aviato.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\aws.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\aws.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\bandcamp.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\bandcamp.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\battle-net.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\battle-net.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\behance-square.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\behance-square.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\behance.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\behance.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\bimobject.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\bimobject.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\bitbucket.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\bitbucket.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\bitcoin.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\bitcoin.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\bity.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\bity.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\black-tie.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\black-tie.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\blackberry.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\blackberry.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\blogger-b.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\blogger-b.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\blogger.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\blogger.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\bluetooth-b.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\bluetooth-b.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\bluetooth.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\bluetooth.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\bootstrap.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\bootstrap.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\btc.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\btc.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\buffer.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\buffer.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\buromobelexperte.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\buromobelexperte.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\buy-n-large.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\buy-n-large.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\buysellads.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\buysellads.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\canadian-maple-leaf.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\canadian-maple-leaf.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\cc-amazon-pay.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\cc-amazon-pay.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\cc-amex.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\cc-amex.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\cc-apple-pay.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\cc-apple-pay.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\cc-diners-club.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\cc-diners-club.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\cc-discover.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\cc-discover.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\cc-jcb.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\cc-jcb.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\cc-mastercard.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\cc-mastercard.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\cc-paypal.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\cc-paypal.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\cc-stripe.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\cc-stripe.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\cc-visa.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\cc-visa.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\centercode.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\centercode.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\centos.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\centos.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\chrome.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\chrome.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\chromecast.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\chromecast.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\cloudflare.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\cloudflare.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\cloudscale.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\cloudscale.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\cloudsmith.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\cloudsmith.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\cloudversify.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\cloudversify.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\codepen.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\codepen.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\codiepie.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\codiepie.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\confluence.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\confluence.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\connectdevelop.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\connectdevelop.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\contao.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\contao.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\cotton-bureau.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\cotton-bureau.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\cpanel.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\cpanel.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\creative-commons-by.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\creative-commons-by.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\creative-commons-nc-eu.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\creative-commons-nc-eu.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\creative-commons-nc-jp.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\creative-commons-nc-jp.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\creative-commons-nc.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\creative-commons-nc.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\creative-commons-nd.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\creative-commons-nd.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\creative-commons-pd-alt.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\creative-commons-pd-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\creative-commons-pd.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\creative-commons-pd.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\creative-commons-remix.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\creative-commons-remix.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\creative-commons-sa.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\creative-commons-sa.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\creative-commons-sampling-plus.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\creative-commons-sampling-plus.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\creative-commons-sampling.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\creative-commons-sampling.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\creative-commons-share.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\creative-commons-share.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\creative-commons-zero.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\creative-commons-zero.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\creative-commons.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\creative-commons.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\critical-role.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\critical-role.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\css3-alt.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\css3-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\css3.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\css3.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\cuttlefish.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\cuttlefish.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\d-and-d-beyond.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\d-and-d-beyond.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\d-and-d.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\d-and-d.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\dailymotion.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\dailymotion.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\dashcube.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\dashcube.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\deezer.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\deezer.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\delicious.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\delicious.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\deploydog.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\deploydog.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\deskpro.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\deskpro.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\dev.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\dev.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\deviantart.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\deviantart.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\dhl.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\dhl.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\diaspora.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\diaspora.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\digg.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\digg.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\digital-ocean.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\digital-ocean.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\discord.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\discord.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\discourse.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\discourse.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\dochub.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\dochub.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\docker.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\docker.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\draft2digital.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\draft2digital.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\dribbble-square.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\dribbble-square.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\dribbble.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\dribbble.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\dropbox.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\dropbox.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\drupal.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\drupal.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\dyalog.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\dyalog.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\earlybirds.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\earlybirds.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\ebay.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\ebay.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\edge-legacy.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\edge-legacy.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\edge.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\edge.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\elementor.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\elementor.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\ello.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\ello.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\ember.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\ember.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\empire.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\empire.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\envira.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\envira.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\erlang.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\erlang.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\ethereum.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\ethereum.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\etsy.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\etsy.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\evernote.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\evernote.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\expeditedssl.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\expeditedssl.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\facebook-f.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\facebook-f.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\facebook-messenger.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\facebook-messenger.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\facebook-square.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\facebook-square.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\facebook.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\facebook.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\fantasy-flight-games.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\fantasy-flight-games.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\fedex.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\fedex.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\fedora.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\fedora.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\figma.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\figma.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\firefox-browser.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\firefox-browser.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\firefox.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\firefox.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\first-order-alt.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\first-order-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\first-order.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\first-order.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\firstdraft.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\firstdraft.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\flickr.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\flickr.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\flipboard.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\flipboard.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\fly.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\fly.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\font-awesome-alt.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\font-awesome-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\font-awesome-flag.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\font-awesome-flag.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\font-awesome-logo-full.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\font-awesome-logo-full.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\font-awesome.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\font-awesome.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\fonticons-fi.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\fonticons-fi.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\fonticons.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\fonticons.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\fort-awesome-alt.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\fort-awesome-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\fort-awesome.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\fort-awesome.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\forumbee.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\forumbee.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\foursquare.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\foursquare.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\free-code-camp.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\free-code-camp.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\freebsd.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\freebsd.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\fulcrum.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\fulcrum.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\galactic-republic.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\galactic-republic.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\galactic-senate.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\galactic-senate.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\get-pocket.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\get-pocket.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\gg-circle.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\gg-circle.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\gg.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\gg.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\git-alt.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\git-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\AllupThird-main\\AllupSecond-master\\AllupTask\\wwwroot\\manage\\vendor\\fontawesome-free\\svgs\\brands\\git-square.svg",
+      "PackagePath": "staticwebassets\\manage\\vendor\\fontawesome-free\\svgs\\brands\\git-square.svg"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.AllupTask.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.AllupTask.props",
+      "PackagePath": "build\\AllupTask.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.AllupTask.props",
+      "PackagePath": "buildMultiTargeting\\AllupTask.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.AllupTask.props",
+      "PackagePath": "buildTransitive\\AllupTask.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
